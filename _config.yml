@@ -72,9 +72,9 @@ kramdown:
 defaults:
  - 
     scope:
-      path: "TestWiki/wiki"
+      path: "wiki"
     values:
-      permalink: /:basename
+      permalink: /TestWiki/wiki/:basename
  -
     scope:
       path: "" # an empty string here means all files in the project
