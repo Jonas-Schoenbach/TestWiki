@@ -30,6 +30,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
+  gem "jekyll-gitlab-metadata"
   gem "jemoji"
 end
 
